@@ -172,5 +172,5 @@ ggplot(TweetSourceCountsData, aes(x = reorder(tweetSource, -Count), y = Count, f
   scale_fill_manual(values = c("iphone" = "#F29F58", "android" = "#441752", "others" = "#9ABF80", "ipad" = "#1F4529", "ifttt" = "#1F509A", "dlvr.it" = "#FA4032"))
 ```
 
-DESCRIBE: The image provided appears to be a bar chart comparing the number of tweets from different tweet sources. The x-axis shows the various tweet sources, including "iphone", "android", "others", "ipad", "ifttt", and "dlvr.it". The y-axis represents the count or number of tweets from each source.
+DESCRIBE:  The image provided appears to be a bar chart comparing the number of tweets from different tweet sources. The x-axis shows the various tweet sources, including "iphone", "android", "others", "ipad", "ifttt", and "dlvr.it". The y-axis represents the count or number of tweets from each source.
 The bar chart uses different colors to distinguish the different tweet sources, with a legend provided to indicate the color-coding. The bars are arranged in descending order based on the tweet count, allowing for easy comparison of the relative popularity or usage of the different tweet sources.
