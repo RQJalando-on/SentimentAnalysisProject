@@ -1,0 +1,25 @@
+---
+title: "SentimentAnalysisProject"
+author: "Jalando-on, Nandin, Palabrica"
+date: "2024-12-14"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(dplyr)
+library(ggplot2)
+library(stringr)
+library(tidyverse)
+library(syuzhet)
+library(tm)            
+library(wordcloud)     
+library(RColorBrewer)
+library(lubridate)
+
+
+
+```
